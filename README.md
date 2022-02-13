@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://2.bp.blogspot.com/-zdcnPKm4-6g/W-t1oLXkvJI/AAAAAAAABOo/TTh1BMhTgpgSiYv9JTcuts0MNHFR6UWtACLcBGAs/s1000/animation-video-type.gif">
+<!--<img src="https://2.bp.blogspot.com/-zdcnPKm4-6g/W-t1oLXkvJI/AAAAAAAABOo/TTh1BMhTgpgSiYv9JTcuts0MNHFR6UWtACLcBGAs/s1000/animation-video-type.gif">-->
 
 <!--
 **computer-engineer/computer-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
